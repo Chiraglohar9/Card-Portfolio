@@ -176,7 +176,7 @@ h5 {
 /* Content-2:End */
 
 /* Responsiveness:Start */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 380px) {
     .box{
         width: 100vw;
         border-radius: 0px;
