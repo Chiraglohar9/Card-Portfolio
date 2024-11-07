@@ -176,19 +176,19 @@ h5 {
 /* Content-2:End */
 
 /* Responsiveness:Start */
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 280px) {
     .box{
         width: 100vw;
         border-radius: 0px;
     }
-    .button{
+    .a{
         display: flex;
         flex-direction: column;
     }
-    .button button{
-        width: 250px;
+    .a a{
+        width: 150px;
     }
-    button.connect{
+    a.connect{
         margin-top: 10px;
     }
     .content2{
